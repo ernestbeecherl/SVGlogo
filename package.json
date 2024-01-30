@@ -1,13 +1,16 @@
 {
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "name": "svglogo",
   "version": "1.0.0",
-  "description": "```md AS a freelance web developer I WANT to generate a simple logo for my projects SO THAT I don't have to pay a graphic designer ```",
+  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
